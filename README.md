@@ -65,7 +65,5 @@ Typical structure (you can adjust this section to match your actual folders):
 
 ```text
 .
-├─ ArpSpoof.mp4        # Screen recording of the complete lab demo
 ├─ poc.pdf             # Step-by-step PoC document with screenshots and explanations
 ├─ README.md           # This file
-└─ (optional folders in the future, e.g. notes/, pcaps/, diagrams/)
